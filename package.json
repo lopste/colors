@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  },
+  "name": "color-factions",
+  "version": "1.0.0",
+  "description": "an online experiment",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "game",
+    "online",
+    "social-experiment",
+    "colors"
+  ],
+  "author": "lopste",
+  "license": "ISC"
+}
